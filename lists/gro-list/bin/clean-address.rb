@@ -17,7 +17,7 @@ list = Morph.from_tsv IO.read('gro-list-original.tsv'), :officer
 
 list.delete_if {|x| (x.address1.blank? || x.address1.squeeze('"').size < 4)}
 
-list.each {|o| o.address = [o.address1,o.address2,o.address3,o.address4].join(' ').squeeze(' ').strip } ; nil
+list.each {|o| o.address = [o.address1,o.address2,o.address3,o.address4].compact.join(', ').squeeze(' ').strip } ; nil
 
 puts %w[registration-district registration-district-name address1 address2 address3 address4 postcode].join("\t")
 
