@@ -1,68 +1,47 @@
 registration-district	registration-district-name	address1	address2	address3	address4	postcode
-218	BARKING AND DAGENHAM	Barking and Dagenham Register Office		Dagenham	Woodlands House	RM10 7ER
-218	BARKING AND DAGENHAM	The Register Office	Woodlands House	Rainham Road North	Dagenham	RM10 7ER
+218	BARKING AND DAGENHAM	Barking and Dagenham Register Office	Woodlands House	Rainham Road North	Dagenham	RM10 7ER
 219	BARNET	Barnet Register Office	182 Burnt Oak Broadway	Edgware	Middx	HA8 OAU
-219	BARNET	The Register Office	182 Burnt Oak Broadway	Edgware	Middx	HA8 OAU
-041	BARNSLEY	Barnsley Register Office	Town Hall	Barnsley		S70 2TA
-300	BATH AND NORTH EAST SOMERSET	Bath and North East Somerset Register Office	Bath	The Guildhall		BA1 5AW
+41	BARNSLEY	Barnsley Register Office	Town Hall	Barnsley		S70 2TA
 300	BATH AND NORTH EAST SOMERSET	Bath and North East Somerset Register Office	The Guildhall	High Street		BA1 5AW
 300	BATH AND NORTH EAST SOMERSET	The Hollies	High Street	Midsomer Norton	Bath	BA3 2DP
-316	BEDFORD	Bedford Register Office	Old Town Hall	St. Pauls Square	Bedford	MK40 1SJ
 316	BEDFORD	Bedford Register Office	Old Town Hall	St Pauls Square	Bedford	MK40 1SQ
 220	BEXLEY	Bexley Register Office	Danson House	Danson Road	Bexleyheath	DA6 8HL
-061	BIRMINGHAM	Birmingham Register Office	Holliday Wharf	Holliday Street	Birmingham	B1 1TJ
-061	BIRMINGHAM	Register Office	Holliday Wharf	Holliday Street	Birmingham	B1 1TJ
-580	BLACKBURN WITH DARWEN	Blackburn With Darwen Register Office	Town Hall		King William Street	BB1 7DY
-580	BLACKBURN WITH DARWEN	Register Office	Town Hall	King William Street	Blackburn	BB1 7DY
+61	BIRMINGHAM	Birmingham Register Office	Holliday Wharf	Holliday Street	Birmingham	B1 1TJ
+580	BLACKBURN WITH DARWEN	Blackburn With Darwen Register Office	Town Hall	King William Street	Blackburn	BB1 7DY
 581	BLACKPOOL	Blackpool Register Office	Festival House	People`s Promenade	Blackpool	FY1 1AP
 581	BLACKPOOL	Head Office	Customer First Centre	Municipal Buildings	Corporation Street	FY1 1NF
-833	BLAENAU GWENT	Blaenau Gwent Register Office	Tredegar	Bedwellty House	Bedwellty Park	NP22 3XN
-833	BLAENAU GWENT	The Register Office	Bedwellty House	Bedwellty Park	Morgan Street	NP22 3XN
+833	BLAENAU GWENT	Blaenau Gwent Register Office	Bedwellty House	Bedwellty Park	Morgan Street	NP22 3XN
 833	BLAENAU GWENT	Council Offices	Mitre Street	Abertillery		NP13 1AE
-002	BOLTON	Bolton Register Office	Mere Hall	Merehall Street	Bolton	BL1 2QT
-002	BOLTON	Bolton Town Hall	Ground Floor	Victoria Square	Bolton	BL1 1SA
-002	BOLTON	Bury Register Office	Town Hall	Manchester Road	Bury	BL9 0SW
-427	BOURNEMOUTH	The Register Office	Bournemouth	Bournemouth Town Hall	Bournemouth	BH2 6DY
+2	BOLTON	Bolton Register Office	Mere Hall	Merehall Street	Bolton	BL1 2QT
+2	BOLTON	Bolton Town Hall	Ground Floor	Victoria Square	Bolton	BL1 1SA
+2	BOLTON	Bury Register Office	Town Hall	Manchester Road	Bury	BL9 0SW
 427	BOURNEMOUTH	The Town Hall	Bourne Avenue	Bournemouth		BH2 6DY
-318	BRACKNELL FOREST	Bracknell Forest Register Office		Bracknell	Time Square	RG12 1JD
 318	BRACKNELL FOREST	Bracknell Forest Register Office	Time Square	Market Street	Bracknell	RG12 1JD
-083	BRADFORD AND KEIGHLEY	Bradford and Keighley Register Office		Bradford	City Hall	BD1 1HY
-083	BRADFORD AND KEIGHLEY	Town Hall	Bow Street	Keighley		BD21 3PA
+83	BRADFORD AND KEIGHLEY	Bradford and Keighley Register Office		Bradford	City Hall	BD1 1HY
+83	BRADFORD AND KEIGHLEY	Town Hall	Bow Street	Keighley		BD21 3PA
 221	BRENT	Brent Register Office	Brent Civic Centre	Engineers Way	Wembley Middlesex	HA9 0FJ
-221	BRENT	The Register Office	Brent Civic Centre	Engineers Way	Wembley Middlesex	HA9 0FJ
 861	BRIDGEND	Bridgend Register Office	Ty`r Ardd	Sunnyside	Bridgend	CF31 4AR
-861	BRIDGEND	The Register Office	Ty`r Ardd	Sunnyside	Bridgend	CF31 4AR
-452	BRIGHTON AND HOVE	Brighton and Hove Register Office		Brighton	Brighton Town Hall	BN1 1JA
 452	BRIGHTON AND HOVE	Brighton and Hove Register Office	Brighton Town Hall	Bartholomews	Brighton	BN1 1JA
 301	BRISTOL	Bristol Register Office	The Old Council House	Corn Street	Bristol	BS1 1JG
 301	BRISTOL	The Atrium	Main Concourse	Brunel Building	Southmead Hospital	BS10 5NB
 222	BROMLEY	Bromley Register Office	Bromley Civic Centre	Stockwell Close	Bromley	BR1 3UH
-222	BROMLEY	The Register Office	Bromley Civic Centre	Stockwell Close	Bromley	BR1 3UH
 328	BUCKINGHAMSHIRE	Buckinghamshire Register Office	County Offices	Walton Street	Aylesbury	HP20 1XF
-328	BUCKINGHAMSHIRE	Buckinghamshire Register Office		Aylesbury	County Offices	HP20 1XF
 328	BUCKINGHAMSHIRE	Beaconsfield Old Town Registration Office	29 Windsor End	Beaconsfield		HP9 2JJ
-003	BURY	Bury Register Office	Town Hall	Manchester Road	Bury	BL9 0SW
-863	CAERPHILLY	Caerphilly Register Office	Ystrad Mynach	Penallta House	tredomen Park	CF82 7PG
-863	CAERPHILLY	The Register Office	Penallta House	Tredomen Park	Ystrad Mynach	CF82 7PG
-086	CALDERDALE	Calderdale Register Office	Halifax	Spring Hall	Huddersfield Road	HX3 0AQ
-086	CALDERDALE	Calderdale Register Office	Spring Hall	Huddersfield Road	Halifax	HX3 0AQ
+3	BURY	Bury Register Office	Town Hall	Manchester Road	Bury	BL9 0SW
+863	CAERPHILLY	Caerphilly Register Office	Penallta House	Tredomen Park	Ystrad Mynach	CF82 7PG
+86	CALDERDALE	Calderdale Register Office	Spring Hall	Huddersfield Road	Halifax	HX3 0AQ
 339	CAMBRIDGESHIRE	Cambridgeshire Register Office Cambridge	Shire Hall	Castle Hill	Cambridge	CB3 0AP
 339	CAMBRIDGESHIRE	Old School House	74 Market Street	Ely	Cambridgeshire	CB7 4LS
 250	CAMDEN	Camden Register Office	Camden Town Hall	Judd Street	London	WC1H 9JE
 890	CARDIFF	Cardiff Register Office	City Hall	Cathays Park	Cardiff	CF10 3ND
-890	CARDIFF	Register Office	City Hall	Cathays Park	Cardiff	CF10 3ND
-822	CARMARTHENSHIRE	Carmarthenshire Register Office	Carmarthen	Parc Myrddin	Richmond Terrace	SA31 1HQ
-822	CARMARTHENSHIRE	The Register Office	Parc Myrddin	Richmond Terrace	Carmarthen	SA31 1HQ
+822	CARMARTHENSHIRE	Carmarthenshire Register Office	Parc Myrddin	Richmond Terrace	Carmarthen	SA31 1HQ
 822	CARMARTHENSHIRE	2 Coleshill Terrace	Llanelli			SA15 3DB
 822	CARMARTHENSHIRE	3b Wind Street	Ammanford	Carmarthenshire		SA18 3DN
-317	CENTRAL BEDFORDSHIRE	The Central Bedfordshire Register Office	The Court House	Woburn Street	Ampthill	MK45 2HX
 317	CENTRAL BEDFORDSHIRE	Central Bedfordshire Register Office	The Court House	Woburn Street	Ampthill	MK45 2HX
 823	CEREDIGION	Ceredigion Register Office Aberystwyth	Canolfan Rheidol	Rhodfa Padarn	Llanbadarn Fawr	SY23 3UE
 823	CEREDIGION	Registration Office	Morgan Street	Cardigan	Ceredigion	SA43 1DF
-342	CHESHIRE EAST	Cheshire East Register Office Crewe	Municipal Buildings	Earle Street	Crewe	CW1 2BJ
-342	CHESHIRE EAST	Municipal Buildings	Earle Street	Crewe		CW1 2JB
-345	CHESHIRE WEST AND CHESTER	Cheshire West and Chester Register Office	Chester	Goldsmith House	Goss Street	CH1 2BG
-345	CHESHIRE WEST AND CHESTER	Goldsmith House	Goss Street	Chester		CH1 2BG
+342	CHESHIRE EAST	Cheshire East Register Office	Municipal Buildings	Earle Street	Crewe	CW1 2BJ
+345	CHESHIRE WEST AND CHESTER	Cheshire West and Chester Register Office	Goldsmith House	Goss Street	Chester	CH1 2BG
 846	CONWY	Conwy Register Office Llandudno	The Town Hall	Lloyd Street	Llandudno	LL30 2UP
 371	CORNWALL	Cornwall Register Office Truro	Dalvenie House	County Hall	Truro	TR1 3AY
 371	CORNWALL	Chy Trevail	Beacon Technology Park	Bodmin	Cornwall	PL31 2FR
@@ -70,69 +49,47 @@ registration-district	registration-district-name	address1	address2	address3	addr
 371	CORNWALL	Skol Goth	Albany Place	Falmouth		TR11 3BZ
 371	CORNWALL	Polkyth House	12 Carlyon Road	St Austell Cornwall		PL25 4LD
 371	CORNWALL	Newquay One Stop Shop	Marcus Hill	Newquay		TR7 1AF
-442	COUNTY OF DURHAM	County of Durham Register Office	Bishop	Auckland	Cockton House	DL14 6HS
 442	COUNTY OF DURHAM	County of Durham Register Office	Cockton House	35 Cockton Hill Road	Bishop Auckland	DL14 6HS
-063	COVENTRY	Coventry Register Office	Cheylesmore Manor House	Manor House Drive	Coventry	CV1 2ND
-063	COVENTRY	The Register Office	Cheylesmore Manor House	Manor House Drive	Coventry	CV1 2ND
+63	COVENTRY	Coventry Register Office	Cheylesmore Manor House	Manor House Drive	Coventry	CV1 2ND
 225	CROYDON	Croydon Register Office	The Town Hall	Fell Road	Croydon	CR0 1NX
-225	CROYDON	Register Office	The Town Hall	Fell Road	Croydon	CR0 1NX
-387	CUMBRIA	Cumbria Register Office Kendal	County Offices	Kendal		LA9 1RQ
-387	CUMBRIA	The Register Office	County Offices	Kendal		LA9 1RQ
+387	CUMBRIA	Cumbria Register Office	County Offices	Kendal		LA9 1RQ
 387	CUMBRIA	The Registration Office	Lady Gillford`s House	Petteril Bank Road	Carlisle	CA1 3AJ
 387	CUMBRIA	The Registration Office	Flatts Walks	Whitehaven		CA28 7RW
 436	DARLINGTON	Darlington Register Office	The Town Hall	Darlington		DL1 5QT
-436	DARLINGTON	The Town Hall	Darlington	-0	-0	DL1 5QT
-811	DENBIGHSHIRE NORTH	Denbighshire North Register Office	Rhyl	Morfa Clwyd	Marsh Road	LL18 2AF
-811	DENBIGHSHIRE NORTH	Register Office	Morfa Clwyd	Marsh Road	Rhyl Denbighshire	LL18 2AF
-805	DENBIGHSHIRE SOUTH	Denbighshire South Register Office		Ruthin	Town Hall	LL15 1YN
-805	DENBIGHSHIRE SOUTH	The Register Office	Town Hall Wynnstay Road	Ruthin	Denbighshire	LL15 1YN
+811	DENBIGHSHIRE NORTH	Denbighshire North Register Office	Morfa Clwyd	Marsh Road	Rhyl Denbighshire	LL18 2AF
+805	DENBIGHSHIRE SOUTH	Denbighshire South Register Office	Town Hall Wynnstay Road	Ruthin	Denbighshire	LL15 1YN
 394	DERBY	Derby Register Office	Council House	Corporation Street	Derby	DE1 2FS
 398	DERBYSHIRE	Derbyshire Register Office	Chesterfield	New Beetwell Street	Chesterfield	S40 1QJ
 398	DERBYSHIRE	Ashbourne Registration Office	The Library	2 Compton	Ashbourne	DE6 1DA
 398	DERBYSHIRE	Ilkeston Registration Office	87 Lord Haddon Road	Ilkeston		DE7 8AX
 398	DERBYSHIRE	Matlock Registration Office	Town Hall	Matlock		DE4 3NN
-423	DEVON	Devon Register Office Newton Abbot	Brunel Road	Newton Abbot		TQ12 4XX
-423	DEVON	Devon Register Office	Newton Abbot	Brunel Road	Newton Abbot	TQ12 4XX
+423	DEVON	Devon Register Office	Brunel Road	Newton Abbot		TQ12 4XX
 423	DEVON	Civic Centre	Paris Street	Exeter		EX1 1JN
 423	DEVON	Torridge Registration Office	Caddsdown Business Support Ser	Farm Road	Bideford	EX39 3DX
-042	DONCASTER	Doncaster Register Office	Elmfield Park	Doncaster	South Yorkshire	DN1 2EB
-429	DORSET	Dorset Register Office	Dorchester	Dorset History Centre	Bridport Road	DT1 1RP
+42	DONCASTER	Doncaster Register Office	Elmfield Park	Doncaster	South Yorkshire	DN1 2EB
 429	DORSET	Dorset Register Office	Dorset History Centre	Bridport Road	Dorchester	DT1 1RP
-065	DUDLEY	Dudley Register Office	Priory Hall	Priory Park	Dudley	DY1 4EU
-065	DUDLEY	The Register Office	Priory Hall	Priory Park	Dudley	DY1 4EU
+65	DUDLEY	Dudley Register Office	Priory Hall	Priory Park	Dudley	DY1 4EU
 226	EALING	Ealing Register Office	Ealing Town Hall	New Broadway	Ealing	W5 2BY
-226	EALING	Register Office	Ealing Town Hall	New Broadway	London	W5 2BY
-541	EAST RIDING OF YORKSHIRE	East Riding of Yorkshire Register Office		Beverley	Walkergate House	HU17 9BP
-541	EAST RIDING OF YORKSHIRE	Register Office	Walkergate House	Walkergate	Beverley	HU17 9BP
+541	EAST RIDING OF YORKSHIRE	East Riding of Yorkshire Register Office	Walkergate House	Walkergate	Beverley	HU17 9BP
 541	EAST RIDING OF YORKSHIRE	Council Offices	Market Green	Cottingham		HU16 5QG
 541	EAST RIDING OF YORKSHIRE	Customer Service Centre Westgarth	Mill Street	Driffield		YO25 6TP
 541	EAST RIDING OF YORKSHIRE	Withernsea Centre	243 Queen Street	Withernsea		HU19 2HH
-462	EAST SUSSEX	East Sussex Register Office	Hastings	Hastings Town Hall	Queens Road	TN34 1QR
-462	EAST SUSSEX	East Sussex Register Office	Hastings	Town Hall	Queens Road	TN34 1EE
-462	EAST SUSSEX	Eastbourne Register Office		Town Hall	Grove Road	BN21 4UG
+462	EAST SUSSEX	East Sussex Register Office	Town Hall	Queens Road	Hastings	TN34 1EE
+462	EAST SUSSEX	Eastbourne Register Office	Town Hall	Grove Road		BN21 4UG
 462	EAST SUSSEX	Crowborough Registration Office	First Floor	1 Southview Close	Crowborough	TN6 1HH
 462	EAST SUSSEX	Lewes Registration Office	Westfield House	St Anne`s Crescent	Lewes	BN7 1TP
 227	ENFIELD	Enfield Register Office	Public Offices	1 Gentleman`s Row	Enfield	EN2 6PS
-227	ENFIELD	Enfield Register Office	Public Offices	Gentleman`s Row	Enfield	EN2 6PS
 463	ESSEX	Essex Register Office Chelmsford	Seax House	County Hall	Victoria Road South	CM1 1QH
-804	FLINTSHIRE	Flintshire Register Office	Mold	Llwynegrin Hall	Mold	CH7 6NR
 804	FLINTSHIRE	Flintshire Register Office	Llwynegrin Hall	Mold	Flintshire	CH7 6NR
-051	GATESHEAD	Gateshead Register Office	Civic Centre	Regent Street	Gateshead	NE8 1HH
-051	GATESHEAD	Gateshead Register Office	Civic Centre Regent Street	Gateshead	Tyne and Wear	NE8 1HH
-488	GLOUCESTERSHIRE	Gloucestershire Register Office		Cheltenham	St Georges Road	GL50 3EW
+51	GATESHEAD	Gateshead Register Office	Civic Centre	Regent Street	Gateshead	NE8 1HH
 488	GLOUCESTERSHIRE	Gloucestershire Register Office	St Georges Road	Cheltenham	Gloucester	GL50 3EW
 229	GREENWICH	Greenwich Register Office	Town Hall	Wellington Street	London	SE18 6PW
-229	GREENWICH	Town Hall	Wellington Street	London		SE18 6PW
 855	GWYNEDD	Gwynedd Register Office Caernarfon	Council Offices	Caernarfon	Gwynedd	LL55 1SH
 855	GWYNEDD	Cae Penarlag	Dolgellau	Gwynedd		LL40 2YB
-230	HACKNEY	Hackney Register Office	Hackney Service Centre	1 Hillman Street Hackney	London	E8 1DY
 230	HACKNEY	Hackney Service Centre	1 Hillman Street	Hackney	London	E8 1DY
-343	HALTON	Halton Register Office	Runcorn	Town Hall	Heath Road	WA7 5TN
 343	HALTON	Halton Register Office	Town Hall	Heath Road	Runcorn	WA7 5TN
 260	HAMMERSMITH AND FULHAM	Hammersmith and Fulham Register Office	Hammersmith Town Hall	King Street	London	W6 9JU
-260	HAMMERSMITH AND FULHAM	Hammersmith and Fulham Register Office	Hammersmith Town Hall	King Street	King Street	W6 9JU
 504	HAMPSHIRE	Hampshire Register Office Winchester	High Street	Castle Hill	Winchester	SO23 8UL
-504	HAMPSHIRE	Hampshire Register Office Winchester	Castle Hill	High Street	Hampshire	SO23 8UL
 504	HAMPSHIRE	30 Grosvenor Road	Aldershot	Hampshire		GU11 3EB
 504	HAMPSHIRE	4 Queens Road	Alton	Hampshire		GU34 1HU
 504	HAMPSHIRE	Andover Registration Office	Beech Hurst	Weyhill Road	Andover	SP10 3AJ
@@ -142,37 +99,25 @@ registration-district	registration-district-name	address1	address2	address3	addr
 504	HAMPSHIRE	Petersfield Library	27 the Square	Petersfield		GU32 3HH
 504	HAMPSHIRE	Ringwood Gatewa Y	the Furlong	Ringwood	Hampshire	BH24 1AT
 504	HAMPSHIRE	Romsey Town Hall	1 Market Place	Romsey Hampshire		SO51 8YZ
-233	HARINGEY	Haringey Register Office	Civic Centre	High Road	Wood Green	N22 8LE
-233	HARINGEY	Civic Centre	High Road	Wood Green	London	N22 4LE
+233	HARINGEY	Haringey Register Office	High Road	Wood Green	London	N22 4LE
 232	HARROW	Harrow Register Office	Civic Centre	Station Road	Harrow	HA1 2XY
-232	HARROW	The Register Office	Civic Centre	Station Road	Harrow	HA1 2UX
 351	HARTLEPOOL	Hartlepool Register Office	Civic Centre	Victoria Road	Hartlepool	TS24 8AY
-351	HARTLEPOOL	The Register Office	Civic Centre	Victoria Road	Hartlepool	TS24 8AY
-234	HAVERING	Havering Register Office	` Langtons` Billet Lane	Hornchurch	Essex	RM11 1XL
-234	HAVERING	` Langtons`	Billet Lane	Hornchurch	Essex	RM11 1XL
-511	HEREFORDSHIRE	Herefordshire Register Office	Hereford	Town Hall	St Owen Street	HR1 2PJ
+234	HAVERING	Havering Register Office ` Langtons`	Billet Lane	Hornchurch	Essex	RM11 1XL
+511	HEREFORDSHIRE	Herefordshire Register Office	St Owen Street	Town Hall	Hereford	HR1 2PJ
 511	HEREFORDSHIRE	Customer Service Centre	Corn Square	Leominster		HR6 8YP
-538	HERTFORDSHIRE	Hertfordshire Register Office Hatfield	19b St Albans Road East	Hatfield	Hertfordshire	AL10 0NG
-538	HERTFORDSHIRE	Hatfield Office	19b St Albans Road East	Hatfield	Hertfordshire	AL10 0NG
+538	HERTFORDSHIRE	Hertfordshire Register Office	19b St Albans Road East	Hatfield	Hertfordshire	AL10 0NG
 538	HERTFORDSHIRE	Watford Office	31 Hempstead Road	Watford		WD17 3EY
 538	HERTFORDSHIRE	Hemel Hempstead Registration Office	The Forum	Marlowes	Hemel Hempstead	HP1 1DN
 538	HERTFORDSHIRE	Hertford Office	County Hall	Pegs Lane	Hertford	SG13 8DE
 538	HERTFORDSHIRE	Stevenage Office	Danesgate	Stevenage		SG1 1WW
 236	HILLINGDON	Hillingdon Register Office	Civic Centre	High Street	Uxbridge	UB8 1UW
-236	HILLINGDON	The Register Office	Civic Centre	High Street	Uxbridge	UB8 1UW
 237	HOUNSLOW	Hounslow Register Office	Harlington Road West	Feltham	Hounslow	TW14 0JJ
 550	HULL	Hull Register Office	The Wilson Centre	1 Alfred Gelder Street	Hull	HU1 2AG
-550	HULL	The Wilson Centre	1 Alfred Gelder Street	Hull		HU1 2AG
-556	ISLE OF WIGHT	Isle of Wight Register Office	Newport	Seaclose Offices	Fairlee Road	PO30 2QS
 556	ISLE OF WIGHT	Seaclose Offices	Fairlee Road	Newport	Isle of Wight	PO30 2QS
-360	ISLES OF SCILLY	Isles of Scilly Register Office	St Mary`s		Isles of Scilly	TR21 0JZ
-360	ISLES OF SCILLY	Register Office	St Mary`s	Isles of Scilly		TR21 0JZ
+360	ISLES OF SCILLY	Isles of Scilly Register Office	St Mary`s	Isles of Scilly		TR21 0JZ
 238	ISLINGTON	Islington Register Office	Islington Town Hall	Upper Street	London	N1 2UD
-238	ISLINGTON	Islington Town Hall	Upper Street	London		N1 2UD
 239	KENSINGTON AND CHELSEA	Kensington and Chelsea Register Office	Chelsea Old Town Hall	Kings Road	London	SW3 5EE
-239	KENSINGTON AND CHELSEA	The Register Office	Chelsea Old Town Hall	Kings Road	London	SW3 5EE
 564	KENT	Kent Register Office	Maidstone	The Archbishop`s Palace	Palace Gardens	ME15 6YE
-564	KENT	See A - Z Offices	As Below	0		AS BELOW
 564	KENT	Whitstable Library	31 - 33 Oxford Street	Whitstable		CT5 1DB
 564	KENT	Herne Bay Library	124 High Street	Herne Bay		CT6 5JY
 564	KENT	Dover Library	Dover Discovery Centre	Market Square	Dover	CT16 1PH
@@ -184,67 +129,46 @@ registration-district	registration-district-name	address1	address2	address3	addr
 564	KENT	Canterbury Library	18 High Street	Canterbury		CT1 2RA
 564	KENT	Ashford Gateway Plus	Church Road	Ashford		TN23 1AS
 240	KINGSTON UPON THAMES	Kingston Upon Thames Register Office	Guildhall	High Street	Kingston Upon Thames	KT1 1EU
-240	KINGSTON UPON THAMES	Guildhall	High Street	Kingston Upon Thames		KT1 1EU
-090	KIRKLEES	Kirklees Register Office Dewsbury	The Town Hall	Old Wakefield Road	Dewsbury	WF12 8DG
-023	KNOWSLEY	Knowsley Register Office	Prescot	District Council Offices	High Street	L34 3LD
-023	KNOWSLEY	Knowsley Register Office	District Council Offices	High Street	Prescot	L34 3LD
+90	KIRKLEES	Kirklees Register Office Dewsbury	The Town Hall	Old Wakefield Road	Dewsbury	WF12 8DG
+23	KNOWSLEY	Knowsley Register Office	District Council Offices	High Street	Prescot	L34 3LD
 241	LAMBETH	Lambeth Register Office	Redfearn Centre	329 Kennington Lane	London	SE11 5QY
-591	LANCASHIRE	Lancashire Register Office Preston	Bow Lane		Preston	PR1 8SE
+591	LANCASHIRE	Lancashire Register Office Preston	Bow Lane	Preston		PR1 8SE
 591	LANCASHIRE	The Register Office	East Cliff	Preston		PR1 3JT
 591	LANCASHIRE	Mechanics Institute	Willow Street	Accrington		BB5 1LP
 591	LANCASHIRE	Georgian House	4 Queens Street	Lancaster		LA1 1RS
 591	LANCASHIRE	West Lancashire Registration Office	Charter House	52 Derby Street	Ormskirk	L39 2DF
-092	LEEDS	Leeds Register Office	2 Great George Street	Leeds	West Yorkshire	LS2 8BA
+92	LEEDS	Leeds Register Office	2 Great George Street	Leeds	West Yorkshire	LS2 8BA
 600	LEICESTER	Leicester Register Office	The Town Hall	Leicester		LE1 9BG
-600	LEICESTER	The Register Office	The Town Hall	Leicester		LE1 9BG
 605	LEICESTERSHIRE	Leicestershire Register Office	Glenfield	Anstey Frith House	County Hall Grounds	LE3 8RN
 605	LEICESTERSHIRE	Leicestershire Register Office	Anstey Frith House	County Hall Grounds	Glenfield	LE3 8RN
 605	LEICESTERSHIRE	Registration Service Coalville	Stenson House		London Road	LE67 3FN
 242	LEWISHAM	Lewisham Register Office	368 Lewisham High Street	London		SE13 6LQ
-242	LEWISHAM	The Register Office	368 Lewisham High Street	London		SE13 6LQ
-609	LINCOLNSHIRE	Lincolnshire Register Office	Lincoln	4 Lindum Road	Lincoln	LN2 1NN
 609	LINCOLNSHIRE	Lincolnshire Register Office	4 Lindum Road	Lincoln	Lincolnshire	LN2 1NN
 609	LINCOLNSHIRE	Aura Skegness Business Centre	Heath Road	Skegness		PE25 23J
 609	LINCOLNSHIRE	South Kesteven Community Point and Library	3 Abbey Road	Bourne		PE10 9EF
 609	LINCOLNSHIRE	Municipal Buildings	2 St Mary`s Hill	Stamford	Lincolnshire	PE9 2DR
 609	LINCOLNSHIRE	Richmond House	Richmond Park	Gainsborough	Lincolnshire	DN21 2RJ
-025	LIVERPOOL	Liverpool Register Office	Heritage Entrance	St George`s Hall	St George`s Place	L1 1JJ
+25	LIVERPOOL	Liverpool Register Office	Heritage Entrance	St George`s Hall	St George`s Place	L1 1JJ
 243	LONDON CITY	London City Register Office	Islington Town Hall	Upper Street	London	N1 2UD
-243	LONDON CITY	Islington Town Hall	Upper Street	Islington	London	N1 2UD
 315	LUTON	Luton Register Office	6 George Street West	Luton		LU1 2BJ
-315	LUTON	Register Office	6 George Street West	Luton		LU1 2BJ
-006	MANCHESTER	Manchester Register Office	Heron House	47 Lloyd Street	Manchester	M2 5LE
+6	MANCHESTER	Manchester Register Office	Heron House	47 Lloyd Street	Manchester	M2 5LE
 561	MEDWAY	Medway Register Office	Rochester	Northgate	Rochester	ME1 1LS
 860	MERTHYR TYDFIL	Merthyr Tydfil Register Office	Ty Penderyn	26 High Street	Merthyr Tydfil	CF47 8DP
-860	MERTHYR TYDFIL	Register Office	Ty Penderyn	26 High Street	Merthyr Tydfil	CF47 8DP
-244	MERTON	Merton Register Office	Morden	Morden Park House	Morden Park	SM4 5QU
-244	MERTON	The Register Office	Morden Park House	Morden Park	London Road	SM4 5QU
+244	MERTON	Merton Register Office	Morden Park House	Morden Park	London Road	SM4 5QU
 348	MIDDLESBROUGH	Middlesbrough Register Office	Town Hall	Albert Road	Middlesbrough	TS1 1JH
-348	MIDDLESBROUGH	District Register Office	Town Hall	Albert Road	Middlesbrough	TS1 1JH
 348	MIDDLESBROUGH	Bereavement Service	Murray Building	James Cook University Hospital	Marton Rd	TS4 3BW
 326	MILTON KEYNES	Milton Keynes Register Office	Bracknell House	Aylesbury Street	Bletchley	MK2 2BE
-326	MILTON KEYNES	Bracknell House	Aylesbury Street	Bletchley	Milton Keynes	MK2 2BE
-839	MONMOUTHSHIRE	Monmouthshire Register Office	Usk	The Rhadyr	Usk	NP15 1GA
 839	MONMOUTHSHIRE	Monmouthshire Register Office	The Rhadyr	Usk	Monmouthshire	NP15 1GA
 896	NEATH PORT TALBOT	Neath Port Talbot Register Office	119 London Road	Neath	Neath Port Talbot	SA11 1HL
-896	NEATH PORT TALBOT	The Register Office	119 London Road	Neath	Neath Port Talbot	SA11 1HL
-053	NEWCASTLE UPON TYNE	Newcastle Upon Tyne Register Office	The Civic Centre	Barras Bridge	Newcastle Upon Tyne	NE1 8PS
-053	NEWCASTLE UPON TYNE	The Register Office	The Register Office	Civic Centre	Newcastle Upon Tyne	NE1 8PS
+53	NEWCASTLE UPON TYNE	Newcastle Upon Tyne Register Office	The Civic Centre	Barras Bridge	Newcastle Upon Tyne	NE1 8PS
 257	NEWHAM	Newham Register Office	Passmore Edwards Building	207 Plashet Grove	East Ham	E6 1BT
 836	NEWPORT	Newport Register Office	The Mansion House	4 Stow Park Circle	Newport	NP20 4HE
-836	NEWPORT	The Mansion House	4 Stow Park Circle	Newport	South Wales	NP20 4HE
-642	NORFOLK	Norfolk Register Office Norwich	The Archive Centre	County Hall	Martineau Lane	NR1 2DQ
 642	NORFOLK	Norfolk Register Office Norwich	The Archive Centre	Martineau Lane	Norwich	NR1 2DQ
-548	NORTH EAST LINCOLNSHIRE	North East Lincolnshire Register Office		Cleethorpes	Cleethorpes Town Hall	DN35 8LN
-548	NORTH EAST LINCOLNSHIRE	Register Office	Cleethorpes Town Hall	Knoll Street	Cleethorpes	DN35 8LN
-554	NORTH LINCOLNSHIRE	North Lincolnshire Register Office		Scunthorpe	Civic Centre	DN16 1AB
-554	NORTH LINCOLNSHIRE	Register Office	Civic Centre	Ashby Road	Scunthorpe	DN16 1AB
-307	NORTH SOMERSET	North Somerset Register Office	Weston	Super Mare	The Town Hall	BS23 1UJ
-307	NORTH SOMERSET	The Town Hall	Walliscote Grove Road	Weston Super Mare		BS23 1UJ
-054	NORTH TYNESIDE	North Tyneside Register Office North	Shields	Maritime Chambers	I Howard Street	NE30 1LZ
-054	NORTH TYNESIDE	North Tyneside Register Office	Maritime Chambers	1 Howard Street	North Shields	NE30 1LZ
-650	NORTH YORKSHIRE	North Yorkshire Register Office		Harrogate	Bilton House	HG1 5AG
-650	NORTH YORKSHIRE	The Register Office	Bilton House	31 Park Parade	Harrogate	HG1 5AG
+548	NORTH EAST LINCOLNSHIRE	North East Lincolnshire Register Office	Cleethorpes Town Hall	Knoll Street	Cleethorpes	DN35 8LN
+554	NORTH LINCOLNSHIRE	North Lincolnshire Register Office	Civic Centre	Ashby Road	Scunthorpe	DN16 1AB
+307	NORTH SOMERSET	North Somerset Register Office	The Town Hall	Walliscote Grove Road	Weston Super Mare	BS23 1UJ
+54	NORTH TYNESIDE	North Tyneside Register Office	Maritime Chambers	1 Howard Street	North Shields	NE30 1LZ
+650	NORTH YORKSHIRE	North Yorkshire Register Office	Bilton House	31 Park Parade	Harrogate	HG1 5AG
 650	NORTH YORKSHIRE	County Hall	Northallerton			DL7 8XE
 650	NORTH YORKSHIRE	12 Queens Road	Richmond			DL10 4AF
 650	NORTH YORKSHIRE	Rydale House	Old Malton Road	Malton		YO17 0HH
@@ -252,7 +176,6 @@ registration-district	registration-district-name	address1	address2	address3	addr
 650	NORTH YORKSHIRE	Selby Registration Office	Civic Centre	Doncaster Road	Selby	YO8 9FT
 650	NORTH YORKSHIRE	Belle Vue Square	1 Boughton Road	Skipton	North Yorkshire	BD23 1FJ
 650	NORTH YORKSHIRE	The Registration Office	Farndale House	Church Square	Whitby	YO21 3EG
-674	NORTHAMPTONSHIRE	Northamptonshire Register Office	Northampton	Northamptonshire Central Library	Abington Street	NN1 2BA
 674	NORTHAMPTONSHIRE	Northamptonshire Register Office	Northamptonshire Central Library	Abington Street	Northamptonshire	NN1 2BA
 674	NORTHAMPTONSHIRE	Wellingborough Register Office	Council Offices	Swanspool Hse	Wellingborough	NN8 18P
 681	NORTHUMBERLAND	Northumberland Register Office Morpeth	The Town Hall	Market Place	Morpeth	NE61 1LZ
@@ -260,153 +183,105 @@ registration-district	registration-district-name	address1	address2	address3	addr
 681	NORTHUMBERLAND	Berwick Community Centre	5 Palace Street East	Berwick Upon Tweed		TD15 1HT
 681	NORTHUMBERLAND	Hadrian House	Market Street	Hexham	Northumberland	NE36 3NH
 689	NOTTINGHAM	Nottingham Register Office	The Council House	Old Market Square	Nottingham	NG1 2DT
-689	NOTTINGHAM	The Register Office	The Council House	Old Market Square	Nottingham	NG1 2DT
 692	NOTTINGHAMSHIRE	Nottinghamshire Register Office Worksop	Memorial Avenue	Worksop		S80 2BP
 692	NOTTINGHAMSHIRE	Beeston Registration Office	Beeston Library	Foster Avenue	Beeston	NG9 1AE
 692	NOTTINGHAMSHIRE	Sutton In Ashfield Library	Idlewells Precinct	Sutton In Ashfield		NG17 1BP
 692	NOTTINGHAMSHIRE	The Registration Office	100 Chesterfield Road South	Mansfield		NG19 7DN
 692	NOTTINGHAMSHIRE	The Registration Office	County Offices Balderton Gate	Newark		NG241UW
-007	OLDHAM	Oldham Register Office	Chadderton Town Hall	Middleton Road	Chadderton	OL9 6PP
-007	OLDHAM	Oldham Register Office	Chadderton Town Hall	Middleton Road	chadderton	OL9 6PP
-695	OXFORDSHIRE	Oxfordshire Register Office	Oxford	Tidmarsh Lane	Oxford	OX1 1NS
-695	OXFORDSHIRE	Oxfordshire District	Register Office	Tidmarsh Lane	Oxford	OX1 1NS
-819	PEMBROKESHIRE	Pembrokeshire Register Office		Haverfordwest	1 Cherry Grove	SA61 2NZ
+7	OLDHAM	Oldham Register Office	Chadderton Town Hall	Middleton Road	Chadderton	OL9 6PP
+695	OXFORDSHIRE	Oxfordshire Register Office	Tidmarsh Lane	Oxford		OX1 1NS
 819	PEMBROKESHIRE	Pembrokeshire Register Office	1 Cherry Grove	Haverfordwest	Pembrokeshire	SA61 2NZ
-819	PEMBROKESHIRE	Town Hall	Fishguard		Pembrokeshire	SA65 9HD
+819	PEMBROKESHIRE	Town Hall	Fishguard	Pembrokeshire		SA65 9HD
 335	PETERBOROUGH	Peterborough Register Office	33 Thorpe Road	Peterborough		PE3 6AB
-335	PETERBOROUGH	The Register Office	33 Thorpe Road	Peterborough		PE3 6AB
 416	PLYMOUTH	Plymouth Register Office	Lockyer Street	Plymouth		PL1 2QD
-416	PLYMOUTH	The Register Office	Lockyer Street	Plymouth		PL1 2QD
 431	POOLE	Poole Register Office	The Guildhall	Market Street	Poole	BH15 1NP
-431	POOLE	The Register Office	The Guildhall	Market Street	Poole	BH15 1NP
 497	PORTSMOUTH	Portsmouth Register Office	Milldam House	Burnaby Road	Portsmouth	PO1 3AF
-497	PORTSMOUTH	Register Office	Milldam House		Burnaby Road	PO1 3AF
 882	POWYS	Powys Register Office	Llandrindod Wells	The Gwalia	Ithon Road	LD1 6AA
 882	POWYS	Neuadd Brycheiniog	Cambrian Way	Brecon	Powys	LD3 7HR
 320	READING	Reading Register Office	Yeomanry House	131 Castle Hill	Reading	RG1 7TA
-320	READING	Yeomanry House	131 Castle Hill	Reading	Berkshire	RG1 7TA
-247	REDBRIDGE	Redbridge Register Office	Ilford	Queen Victoria House	794 Cranbrook Rd	IG6 1JS
 247	REDBRIDGE	Redbridge Register Office	Queen Victoria House	794 Cranbrook Road	barkingside	IG6 1JS
-349	REDCAR AND CLEVELAND	Redcar and Cleveland Register Office	Redcar	Leisure and Community Heart	Ridley Street	TS10 1TD
 349	REDCAR AND CLEVELAND	Redcar and Cleveland Register Office	Leisure and Community Heart	Ridley Street	Redcar	TS10 1TD
-864	RHONDDA CYNON TAF	Rhondda Cynon Taf Register Office		Pontypridd	Municipal Buildings	CF37 2DP
 864	RHONDDA CYNON TAF	Rhondda Cynon Taf Register Office	Municipal Buildings	Gelliwastad Road	Pontypridd	CF37 2DP
 248	RICHMOND UPON THAMES	Richmond Upon Thames Register Office	York House	Richmond Road	Twickenham	TW1 3AA
-248	RICHMOND UPON THAMES	York House	Richmond Road	Twickenham		TW1 3AA
-009	ROCHDALE	Rochdale Register Office	Town Hall	The Esplanade	Rochdale	OL16 1AB
-045	ROTHERHAM	Rotherham Register Office	Riverside House	Main Street	Rotherham	S60 1AE
-045	ROTHERHAM	Rotherham Register Office	Riverside House	Main Street	Rotherham South Yorkshire	S60 1AE
-604	RUTLAND	Rutland Register Office	Oakham	Catmose	Oakham	LE15 6JU
-604	RUTLAND	The Register Office	Catmose	Oakham	Rutland	LE15 6JU
-011	SALFORD	Salford Register Office	Swinton	Town Hall	Chorley Road	M27 5DA
-011	SALFORD	Salford Register Office	Swinton	Town Hall	Chorley Road	M27 5WH
-070	SANDWELL	Sandwell Register Office	Highfields	High Street	West Bromwich	B70 8RJ
-070	SANDWELL	The Register Office	Highfields	High Street	West Bromwich	B70 8RJ
-035	SEFTON	Sefton Register Office	Southport	Town Hall	Corporation Street	PR8 1DA
-035	SEFTON	Crosby Town Hall	Great Georges Road	Waterloo	Liverpool	L22 1RB
-048	SHEFFIELD	Sheffield Register Office	The Town Hall	Sheffield	South Yorkshire	S1 2HH
-717	SHROPSHIRE	Shropshire Register Office	Shrewsbury	The Shirehall	Abbey Foregate	SY2 6ND
-717	SHROPSHIRE	Shropshire Register Office	The Shirehall	Abbey Foregate	Shrewsbury Shropshire	SY2 6ND
+9	ROCHDALE	Rochdale Register Office	Town Hall	The Esplanade	Rochdale	OL16 1AB
+45	ROTHERHAM	Rotherham Register Office	Riverside House	Main Street	Rotherham	S60 1AE
+604	RUTLAND	Rutland Register Office	Catmose	Oakham	Rutland	LE15 6JU
+11	SALFORD	Salford Register Office	Swinton	Town Hall	Chorley Road	M27 5WH
+70	SANDWELL	Sandwell Register Office	Highfields	High Street	West Bromwich	B70 8RJ
+35	SEFTON	Sefton Register Office	Southport	Town Hall	Corporation Street	PR8 1DA
+35	SEFTON	Crosby Town Hall	Great Georges Road	Waterloo	Liverpool	L22 1RB
+48	SHEFFIELD	Sheffield Register Office	The Town Hall	Sheffield	South Yorkshire	S1 2HH
+717	SHROPSHIRE	Shropshire Register Office	The Shirehall	Abbey Foregate	Shrewsbury	SY2 6ND
 717	SHROPSHIRE	The Library	Listley Street	Bridgnorth	Shropshire	WV164AW
 717	SHROPSHIRE	The Museum and Library Resource Centre	7/9 Parkway	Ludlow		SY8 2PG
 717	SHROPSHIRE	C/o the Library	Civic Centre	High Street	Whitchurch	SY13 1LJ
 321	SLOUGH	Slough Register Office	The Curve	William Street	Slough	SL1 2JG
-073	SOLIHULL	Solihull Register Office	Solihull	Homer Road	Solihull	B91 3QZ
-073	SOLIHULL	Solihull Connect	Ground Floor	Library Square	Solihull	B91 3RG
+73	SOLIHULL	Solihull Register Office	Solihull	Homer Road	Solihull	B91 3QZ
+73	SOLIHULL	Solihull Connect	Ground Floor	Library Square	Solihull	B91 3RG
 722	SOMERSET	Somerset Register Office Taunton	The Old Municipal Building	Corporation Street	Taunton Somerset	TA1 4AQ
-722	SOMERSET	Somerset Register Office Taunton	The Old Municipal Building	Corporation Street Taunton	Somerset	TA1 4AQ
 722	SOMERSET	Bridgwater Registration Office	Morgan House	Mount Street		TA6 3ER
 722	SOMERSET	Glastonbury Registration Office	glastonbury Library Hub	1 Orchard Ct	the Archers Way	BA6 9JB
-304	SOUTH GLOUCESTERSHIRE	South Gloucestershire Register Office		Kingswood	Kingswood Civic Centre	BS15 9TR
 304	SOUTH GLOUCESTERSHIRE	South Gloucestershire Register Office	Kingswood Civic Centre	High Street	Kingswood	BS15 9TR
-057	SOUTH TYNESIDE	South Tyneside Register Office	South	Shields	10 Broughton Road	NE33 2RN
-057	SOUTH TYNESIDE	10 Broughton Road	South Shields	Tyne and Wear		NE33 2RN
+57	SOUTH TYNESIDE	South Tyneside Register Office	10 Broughton Road	South Shields	Tyne and Wear	NE33 2RN
 500	SOUTHAMPTON	Southampton Register Office	6a Bugle Street	Southampton		SO14 2AJ
-500	SOUTHAMPTON	6a Bugle Street	Southampton	0		SO14 2LX
-475	SOUTHEND ON SEA	Southend On Sea Register Office Southend	On Sea	Civic Centre	Victoria Avenue	SS2 6ER
-475	SOUTHEND ON SEA	The Register Office	Civic Centre	Victoria Avenue	Southend On Sea	SS2 6ER
+475	SOUTHEND ON SEA	Southend On Sea Register Office	Civic Centre	Victoria Avenue	Southend On Sea	SS2 6ER
 251	SOUTHWARK	Southwark Register Office	34 Peckham Road	Southwark	London	SE5 8QA
-251	SOUTHWARK	Register Office	34 Peckham Road	Southwark	London	SE5 8QA
-030	ST HELENS	St Helens Register Office	Central Street	St Helens	Merseyside	WA10 1UJ
+30	ST HELENS	St Helens Register Office	Central Street	St Helens	Merseyside	WA10 1UJ
 738	STAFFORDSHIRE	Staffordshire Register Office	Stafford	1 Staffordshire Place	Stafford	ST16 2LP
 738	STAFFORDSHIRE	20 Sidmouth Avenue	the Brampton	Newcastle Under Lyme	Staffordshire	ST5 OQN
 738	STAFFORDSHIRE	Moorlands House	Stockwell Street	Leek	Staffs	ST136HQ
-013	STOCKPORT	Stockport Register Office	Town Hall	John Street Entrance	Stockport	SK1 3XE
+13	STOCKPORT	Stockport Register Office	Town Hall	John Street Entrance	Stockport	SK1 3XE
 350	STOCKTON-ON-TEES	Stockton-On-Tees Register Office	Nightingale House	Balaclava Street	Stockton-On-Tees	TS18 2AL
-350	STOCKTON-ON-TEES	The Register Office	Nightingale House	Balaclava Street	Stockton-On-Tees	TS18 2AL
-737	STOKE ON TRENT	Stoke On Trent Register Office	Town Hall	Hanley	Stoke On Trent	ST1 1QQ
-737	STOKE ON TRENT	Floor 1	Town Hall	Hanley	Stoke On Trent	ST1 1QQ
-748	SUFFOLK	Suffolk Register Office	Ipswich	St Peter House	16 Grimwade Street	IP4 1LP
-748	SUFFOLK	Suffolk Register Office	Ipswich	St Peter House	16 Grimwade Street	P4 1LP
+737	STOKE ON TRENT	Stoke On Trent Register Office, Floor 1	Town Hall	Hanley	Stoke On Trent	ST1 1QQ
+748	SUFFOLK	Suffolk Register Office	16 Grimwade Street	St Peter House	Ipswich	IP4 1LP
 748	SUFFOLK	7 Angel Hill	Bury St Edmunds	Suffolk		IP33 1UZ
 748	SUFFOLK	2 Canning Road	Lowestoft	Suffolk		NR33 0EQ
 748	SUFFOLK	The Town Hall	Old Market Place	Sudbury	Suffolk	CO10 1TL
-058	SUNDERLAND	Sunderland Register Office	Po Box 108		Civic Centre	SR2 7DN
-058	SUNDERLAND	Sunderland Register Office	Po Box 108	Civic Centre	Burdon Road	SR2 7DN
+58	SUNDERLAND	Sunderland Register Office	Po Box 108	Civic Centre	Burdon Road	SR2 7DN
 759	SURREY	Surrey Register Office	Weybridge	Rylston	81 Oatlands Drive	KT13 9LN
 759	SURREY	Farnham Library	Vernon House	28 West Street	Farnham	GU9 7DR
 759	SURREY	The Mansion	Church Street	Leatherhead	Surrey	KT22 8DP
 254	SUTTON	Sutton Register Office	Russettings	25 Worcester Road	Sutton	SM2 6PR
-254	SUTTON	The Register Office	Russettings	25 Worcester Road	Sutton	SM2 6PR
 897	SWANSEA	Swansea Register Office	The Civic Centre	Swansea		SA1 3SN
 796	SWINDON	Swindon Register Office	Civic Offices	Euclid Street	Swindon	SN1 2JH
-014	TAMESIDE	Tameside Register Office	Dukinfield	Town Hall	King Street	SK16 4LA
-716	TELFORD AND WREKIN	Telford and Wrekin Register Office		Wellington	Wellington Civic and Leisure Centre	TF1 1LX
-716	TELFORD AND WREKIN	Wellington Civic and Leisure Centre	Tan Bank	Wellington	Telford Shropshire	TF1 1LX
-477	THURROCK	Thurrock Register Office	Grays	Thameside Complex	Orsett Road	RM17 5DX
+14	TAMESIDE	Tameside Register Office	Dukinfield	Town Hall	King Street	SK16 4LA
+716	TELFORD AND WREKIN	Telford and Wrekin Register Office	Wellington Civic and Leisure Centre, Tan Bank	Wellington	Telford Shropshire	TF1 1LX
 477	THURROCK	Thurrock Register Office	Thameside Complex	Orsett Road	Grays	RM17 5DX
 422	TORBAY	Torbay Register Office	Torquay	1st Floor	Cockington Court	TQ2 6XA
 422	TORBAY	Torbay Sub District Office	Paignton Library and Information Centre	Great Western Road	Paignton	TQ4 5AG
-837	TORFAEN	Torfaen Register Office	Pontypool	The Civic Centre	Pontypool	NP4 6YB
-837	TORFAEN	The Register Office	The Civic Centre	Pontypool	Torfaen	NP4 6YB
+837	TORFAEN	Torfaen Register Office	The Civic Centre	Pontypool	Torfaen	NP4 6YB
 246	TOWER HAMLETS	Tower Hamlets Register Office	Bromley Public Hall	Bow Road	London	E3 3AA
-246	TOWER HAMLETS	Bromley Public Hall	Bow Road	London		E3 3AA
-015	TRAFFORD	Trafford Register Office	Sale	Sale Town Hall	Sale Waterside	M33 7ZF
-015	TRAFFORD	Trafford Register Office	Sale Town Hall	Sale Waterside	Sale	M33 7ZF
-891	VALE OF GLAMORGAN	Vale of Glamorgan Register Office	Barry	Civic Offices	Holton Road	CF63 4RU
-891	VALE OF GLAMORGAN	The Register Office	Civic Offices	Holton Road	Barry	CF63 4RU
-097	WAKEFIELD	Wakefield Register Office	Wakefield Town Hall	Wood Street	Wakefield	WF1 2HQ
-097	WAKEFIELD	Town Hall	Bridge Street	Pontefract		WF8 1PG
-075	WALSALL	Walsall Register Office	Civic Centre	Hatherton Road	Walsall	WS1 1TN
-075	WALSALL	Register Office	Civic Centre	Hatherton Road	Walsall	WS1 1TN
-255	WALTHAM FOREST	Waltham Forest Register Office		Walthamstow	106 Grove Road	E17 9BY
-255	WALTHAM FOREST	106 Grove Road	Walthamstow	London		E17 9BY
+15	TRAFFORD	Trafford Register Office	Sale Town Hall	Sale Waterside	Sale	M33 7ZF
+891	VALE OF GLAMORGAN	Vale of Glamorgan Register Office	Civic Offices	Holton Road	Barry	CF63 4RU
+97	WAKEFIELD	Wakefield Register Office	Wakefield Town Hall	Wood Street	Wakefield	WF1 2HQ
+97	WAKEFIELD	Town Hall	Bridge Street	Pontefract		WF8 1PG
+75	WALSALL	Walsall Register Office	Civic Centre	Hatherton Road	Walsall	WS1 1TN
+255	WALTHAM FOREST	Waltham Forest Register Office	106 Grove Road	Walthamstow	London	E17 9BY
 256	WANDSWORTH	Wandsworth Register Office	The Town Hall	Wandsworth High Street	London	SW18 2PU
 256	WANDSWORTH	The Town Hall	Wandsworth High Street	London		SW18 2PU
-346	WARRINGTON	Warrington Register Office	Museum Street	Warrington	Cheshire	WA1 1JX
-346	WARRINGTON	Register Office	Museum Street	Warrington		WA1 1JX
+346	WARRINGTON	Warrington Register Office	Museum Street	Warrington		WA1 1JX
 776	WARWICKSHIRE	Warwickshire Register Office Warwick	Po Box 9	Shire Hall	Warwick	CV34 4RL
 776	WARWICKSHIRE	Riversley Park	Coton Road	Nuneaton		CV11 5HA
-319	WEST BERKSHIRE	West Berkshire Register Office	Newbury	Shaw House	Church Road	RG14 2DR
-319	WEST BERKSHIRE	Shaw House	Church Road	Shaw	newbury	RG14 2DR
-785	WEST SUSSEX	West Sussex Register Office Crawley	Southgate Avenue	Crawley	West Sussex	RH10 6HG
+319	WEST BERKSHIRE	West Berkshire Register Office	Church Road	Shaw	Newbury	RG14 2DR
 785	WEST SUSSEX	West Sussex Register Office	Southgate Avenue	Crawley		RH10 6HG
 785	WEST SUSSEX	West Sussex Records Office	Orchard Street	Chichester		PO19 1DD
 785	WEST SUSSEX	Haywards Heath Library	34 Boltro Road	Haywards Heath		RH16 1BN
 785	WEST SUSSEX	Portland House	Richmond Road	Worthing		BN11 1HH
 258	WESTMINSTER	Westminster Register Office	Westminster City Hall	64 Victoria Street	London	SW1E 6QP
 258	WESTMINSTER	Westminster Registration Office	317 Harrow Road	London		W9 3RJ
-018	WIGAN AND LEIGH	Wigan and Leigh Register Office	Wigan	Wigan Council Life Centre (north)	2nd Floor	WN1 1NH
-018	WIGAN AND LEIGH	Wigan and Leigh Register Office	Wigan Council Life Centre (north)	2nd Floor	the Wiend	WN1 1NH
+18	WIGAN AND LEIGH	Wigan and Leigh Register Office, 2nd Floor	Wigan Council Life Centre (north)	the Wiend	Wigan	WN1 1NH
 799	WILTSHIRE	Wiltshire Register Office Trowbridge	County Hall	Trowbridge	Wiltshire	BA14 8JN
 799	WILTSHIRE	Bourne Hill	Salisbury	Wiltshire		SP1 3UZ
 799	WILTSHIRE	4 Timber Street	Chippenham	Wiltshire		SN15 3BZ
 799	WILTSHIRE	Crossmolina Buildings	3 - 5 Snuff Street	Devizes	Wiltshire	SN10 1FG
-322	WINDSOR AND MAIDENHEAD	Windsor and Maidenhead Register Office		Maidenhead	Town Hall	SL6 1RF
-322	WINDSOR AND MAIDENHEAD	The Register Office	Town Hall	St Ives Road	Maidenhead	SL6 1RF
-037	WIRRAL	Wirral Register Office	Birkenhead	Town Hall	Mortimer Street	CH41 5EU
+322	WINDSOR AND MAIDENHEAD	Windsor and Maidenhead Register Office	Town Hall	St Ives Road	Maidenhead	SL6 1RF
+37	WIRRAL	Wirral Register Office	Birkenhead	Town Hall	Mortimer Street	CH41 5EU
 323	WOKINGHAM	Wokingham Register Office	Civic Offices	Shute End	Wokingham	RG40 1WH
-323	WOKINGHAM	The Registration Service	Civic Offices	Shute End	Wokingham	RG40 1WH
-077	WOLVERHAMPTON	Wolverhampton Register Office	Civic Centre	St Peters Square	Wolverhampton	WV1 1RU
-077	WOLVERHAMPTON	Civic Centre	St Peters Square	Wolverhampton		WV1 1RU
-527	WORCESTERSHIRE	Worcestershire Register Office	Worcester	County Hall	Spetchley Road	WR5 2NP
+77	WOLVERHAMPTON	Wolverhampton Register Office	Civic Centre	St Peters Square	Wolverhampton	WV1 1RU
 527	WORCESTERSHIRE	Worcestershire Register Office	County Hall	Spetchley Road	Worcester	WR5 2NP
 527	WORCESTERSHIRE	Worcestershire Royal Hospital	Meadow Level		Charles Hastings Way	WR5 1DD
 527	WORCESTERSHIRE	29 Easemore Road	Redditch			B98 8ER
 527	WORCESTERSHIRE	The Hub	Kidderminster Town Hall		Vicar Street	DY10 1DB
 813	WREXHAM	Wrexham Register Office	Guildhall	Wrexham		LL11 1AY
-813	WREXHAM	The Register Office	Guildhall	Wrexham		LL11 1AY
-857	YNYS MON	Ynys Mon Register Office	Llangefni	Shire Hall	Glanhwfa Road	LL77 7TW
-857	YNYS MON	Shire Hall	Glanhwfa Road	Llangefni	Anglesey	LL77 7TW
+857	YNYS MON	Ynys Mon Register Office	Shire Hall	Glanhwfa Road	Llangefni	LL77 7TW
 661	YORK	York Register Office	56 Bootham	York		YO30 7DA
-661	YORK	Register Office	56 Bootham	York		YO30 7DA
